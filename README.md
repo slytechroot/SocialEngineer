@@ -8,16 +8,16 @@ Remmeber the 6 most common traits that a social engineer must master:
 5) Liking
 6) Consensus
 
-How to persuade without pressure
+How to persuade without pressure<BR>
 https://www.youtube.com/watch?v=wn9SGSZINbw
 
-How To Talk ANYONE Into Doing ANYTHING (Seriously!) With Chris Voss | Salesman Podcast
+How To Talk ANYONE Into Doing ANYTHING (Seriously!) With Chris Voss | Salesman Podcast<BR>
 https://www.youtube.com/watch?v=YNqpQ3zi8iQ
 
-HOW TO MANIPULATE PEOPLE(Ethically) - How to Influence People by Robert Cialdini
+HOW TO MANIPULATE PEOPLE(Ethically) - How to Influence People by Robert Cialdini<BR>
 https://www.youtube.com/watch?v=F1ZRdsHC0dE
 
-Embedded Commands
+Embedded Commands<BR>
 https://www.youtube.com/watch?v=rNfFGK15ljQ
 
 
