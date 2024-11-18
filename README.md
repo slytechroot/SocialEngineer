@@ -26,3 +26,8 @@ https://www.youtube.com/watch?v=twLp8eXwa-Q
 An introduction to Elicitation by Subliminal Hacking<BR>
 https://www.youtube.com/watch?v=X_flJddii28
 
+Gestures and Body Language Tutorial<BR>
+https://www.youtube.com/watch?v=ZUXtGQkJcQ0
+
+The secrets to decoding facial expressions<BR>
+https://www.youtube.com/watch?v=B0ouAnmsO1Y
