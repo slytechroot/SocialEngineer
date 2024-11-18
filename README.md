@@ -20,4 +20,9 @@ https://www.youtube.com/watch?v=F1ZRdsHC0dE
 Embedded Commands<BR>
 https://www.youtube.com/watch?v=rNfFGK15ljQ
 
+RED SPARROW author Jason Matthews on The Art of Elicitation<BR>
+https://www.youtube.com/watch?v=twLp8eXwa-Q
+
+An introduction to Elicitation by Subliminal Hacking<BR>
+https://www.youtube.com/watch?v=X_flJddii28
 
