@@ -1,0 +1,10 @@
+
+    1.
+    Social engineering is only made up of email phishing
+    Social engineering goes far beyond just email phishing, or even technology for that matter. Con men have used multiple methods (Attack Vectors) to carry out their dirty deeds long before email was invented.
+    2.
+    The correct definition of an Attack Vector is:
+    An attack vector is a means or path in which an attacker is able to deliver a malicious outcome (aka, payload). An attack vector is not a software tool or virus. Instead, it's a merely a method one would take to deceive a victim (Baiting, Fax/SMS, Elicitation, etc).
+    3.
+    The underlying goal of Social Engineering is to exploit human trust
+    Stealing usernames and passwords may be a goal for social engineers, however the underlying approach is to first exploit human trust to be able to clear a path for malicious deeds. This may include stealing usernames and passwords, gaining access to a restricted area, discovering trade secrets and more.

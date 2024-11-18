@@ -1,0 +1,12 @@
+You answered 3 out of 3 questions correctly
+
+    1.
+    The Preparation phase for social engineering requires the following 3 items:
+    Defined Scope, Rules of Engagement and A Plan are all required for the preparation (and success) of a social engineering operation.
+    2.
+    The Social Engineering Operational Plan is to be used only by the social engineering team.
+    The Social Engineering Operational Plan is the culmination of the Scope and Rules of Engagement. It spells out details, goals and functions of the team and is to be shared with the client, not just the social engineering team.
+    3.
+    It is okay to stray out of scope without permission, if the team thinks the client will benefit. This may include grabbing financial reports from the CFO's desk that was not deemed in-scope.
+    It is never okay to stray out of scope without permission. Period. In the industry we call that being a "cowboy." You don't want to be a cowboy, unless you're actually a cowboy. 
+    If an opportunity presents itself to be beneficial to the client and the action is out-of-scope, make a quick call to obtain permission. Otherwise, make note of the vulnerability and refrain from breaking the rules.

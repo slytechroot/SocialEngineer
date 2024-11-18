@@ -1,0 +1,7 @@
+ You answered 2 out of 2 questions correctly
+
+    1.
+    Psychological tactics are only valuable when conducting social engineering face-to-face
+    Psychological tactics are not limited to face-to-face operations. A social engineering can use the Authority strategy to persuade a target into divulging information or perform an action over the phone or via email.
+    2.
+    Elicitation is all about trying to tease information from a subject without them knowing. Influencing is all about trying to persuade a target into compliance without them knowing, by using language to steer their actions in your benefit.

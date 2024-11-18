@@ -1,0 +1,9 @@
+
+Information Gathering Lab Links
+Kali Linux - https://www.kali.org/downloads/
+Virtualbox - https://www.virtualbox.org/wiki/Downloads 
+
+
+Metagoofil Description - https://tools.kali.org/information-gathering/metagoofil 
+Maltego video - https://youtu.be/-4ell2N3kj4 
+

@@ -1,0 +1,14 @@
+ You answered 4 out of 4 questions correctly
+
+    1.
+    Usernames and passwords should the the primary target for Spear Phishing
+    Usernames and password should not be the only target for social engineering testing. Whichever type of data that is most important and closely-held to the client (customer list, code, intellectual property), must be the targeted data. While usernames and passwords often make the list, they must not be the ONLY targeted data.
+    2.
+    Most data breaches begin with spear phishing
+    True. About 91% of data breaches begin with spear phishing.
+    3.
+    Always ask directly for sensitive information first from the target
+    False. Never ask for sensitive information directly, unless there have been multiple attempts to obtain it indirectly without success. Asking for sensitive information has a high likelihood to put the target on high alert and become very suspicious. 
+    Instead, leverage decoy websites where you can direct targets to ask them to complete a form and indirectly collect such information without directly asking for it.
+    4.
+    A First Line Response (FLR) is:

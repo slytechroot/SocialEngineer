@@ -1,0 +1,14 @@
+
+
+You answered 2 out of 3 questions correctly
+
+    1.
+    Information gathering is the least time-intensive step
+    Information gathering is the most time-intensive step. Most often, information about a target is scattered online and in the physical realm. As a result, it can take weeks to months to gather enough information about the target to formulate a plan.
+    2.
+    It's not necessary to use both technical and non-technical info gathering tactics for each and every social engineering operation
+    Some social engineering operations are done entirely remotely. These operations may be limited to email spear phishing or telephone phishing only. Thus, physical presence during non-technical recon may not always make sense and thus would not require both technical and non-technical tactics. 
+    3.
+    Maltego and Metagoofil can be found on the Kali Linux distribution
+    Kali Linux has many ethical hacking tools including Maltego and Metagoofil, to name a few.
+
